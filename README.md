@@ -1,4 +1,4 @@
 # rsschool-cv
 Repository for a rsschool
 
-https://NewAlexey/rsschool-cv/cv
+https://newalexey.github.io/rsschool-cv/
